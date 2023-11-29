@@ -1,0 +1,46 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.allSystem{
+    width: 700px;
+    background: yellowgreen;
+    margin: 0 auto;
+    padding: 0;
+}
+.products{
+    display: grid;
+    justify-content: center;
+    padding-top: 20px;
+}
+.products input {
+    font-size: 18px;
+    padding: 7px 36px;
+}
+.products h5 {
+    font-size: 24px;
+}
+.products select {
+    height: 37px;
+    width: 296px;
+    font-size: 18px;
+}
+.products button {
+    font-size: 20px;
+    padding: 6px 20px;
+    background-color: #000000b0;
+    color: white;
+    border: none;
+}
+.table, th, td {
+    border: 1px solid;
+    padding: 6px 15px;
+    font-size: 18px;
+}
+
+.table {
+    background: #f5deb3bf;
+    color: black;
+}
